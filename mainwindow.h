@@ -23,6 +23,6 @@ private slots:
 };
 
 
-
+//prova
 
 #endif // MAINWINDOW_H
